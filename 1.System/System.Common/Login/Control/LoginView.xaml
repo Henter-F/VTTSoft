@@ -1,0 +1,89 @@
+﻿<Window x:Class="System.Common.Login.Control.LoginView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:System.Common.Login.Control"
+             xmlns:controls="clr-namespace:System.ICore.Control;assembly=System.ICore"
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="450"  Height="400" Width="450"  ResizeMode="NoResize" 
+             WindowStartupLocation="CenterScreen" WindowStyle="None" Background="#00FFFFFF" AllowsTransparency="True" 
+             FontWeight="Medium" Loaded="Window_Loaded" Cursor="Hand">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/System.ICore;component/Resoure/DictionaryMain.xaml" />
+                <ResourceDictionary Source="/System.ICore;component/Resoure/ButtonEx.xaml" />
+                <ResourceDictionary Source="/System.ICore;component/Resoure/MultiComboBox.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+
+        </ResourceDictionary>
+
+    </Window.Resources>
+    <Border   BorderThickness="1" Background="White"   BorderBrush="{ DynamicResource MainColor}" >
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="26"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0"  MouseMove="TitleBar_MouseMove" Background="{ DynamicResource MainColor}">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="0"  Margin="0,0,10,0" HorizontalAlignment="Left"  Orientation="Horizontal">
+                    <Image  Height="24"  Source="pack://application:,,,/System.ICore;Component/Image/login32.png" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    <TextBlock Text="登录" FontSize="16"  VerticalAlignment="Center" />
+                </StackPanel>
+                <StackPanel Grid.Column="1"  Margin="0,0,10,0" HorizontalAlignment="Right" Orientation="Horizontal">
+                    <Button Width="24" Height="24"  Cursor="Hand" Click="btn_close_Click">
+                        <Button.Template>
+                            <ControlTemplate>
+                                <Grid Background="Transparent">
+                                    <Line Width="15" Height="15" X1="0" Y1="0" X2="15" Y2="15" StrokeThickness="3" Stroke="Black" ></Line>
+                                    <Line Width="15" Height="15" X1="15" Y1="0" X2="0" Y2="15" StrokeThickness="3" Stroke="Black" ></Line>
+                                </Grid>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                </StackPanel>
+            </Grid>
+
+            <Grid Grid.Row="1" Margin="1"  >
+                <Grid.Background>
+                    <ImageBrush ImageSource="pack://application:,,,/System.ICore;Component/Image/cloud.png" Opacity="0.4"/>
+                </Grid.Background>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="60"/>
+                </Grid.RowDefinitions>
+                <StackPanel Grid.Row="0"  HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <Image  Margin="10"  Source="pack://application:,,,/System.ICore;Component/Image/LOGO.png"  HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </StackPanel>
+                <StackPanel Grid.Row="1"  HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal">
+                    <Image  Height="30" Source="pack://application:,,,/System.ICore;Component/Image/user.png"  HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    <TextBlock Text="用户名:" FontSize="15"  VerticalAlignment="Center" />
+                    <ComboBox Grid.Row="0" BorderBrush="#FF4EAEFF"  Style="{StaticResource stlComboBox}" Foreground="Black"  Width="250" Height="35" ItemsSource="{Binding UserNameItem}" Text="{Binding InputUserName,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" />
+                </StackPanel>
+                <StackPanel Grid.Row="2"  HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal">
+                    <Image  Height="30" Source="pack://application:,,,/System.ICore;Component/Image/password.png"  HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    <TextBlock Text="  密码:" FontSize="15"  VerticalAlignment="Center" />
+                    <TextBox x:Name="pwd" Margin="5,0,0,0"  Style="{StaticResource stlTextBox}" Foreground="Black"   Width="250" Height="35"  
+              Validation.ErrorTemplate="{StaticResource ValidationTemplate}">
+                        <TextBox.Text>
+                            <Binding Path="InputPassWord" Mode="TwoWay"  UpdateSourceTrigger="PropertyChanged">
+                            </Binding>
+                        </TextBox.Text>
+                    </TextBox>
+                </StackPanel>
+
+                <controls:ButtonEx Grid.Row="3" Margin="70,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" ButtonType="IconText"  Command="{Binding LogOnCommand}" Content="登录"  Background="#FF6EBE28" Width="240" Height="35"  FontSize="15" IsDefault="True"/>
+
+            </Grid>
+        </Grid>
+    </Border>
+   
+</Window>

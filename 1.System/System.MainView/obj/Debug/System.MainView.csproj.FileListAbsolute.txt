@@ -1,0 +1,17 @@
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.MainView\obj\Debug\System.MainView.csproj.AssemblyReference.cache
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.MainView\obj\Debug\MainWindow.g.cs
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.MainView\obj\Debug\MainWindow.baml
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.MainView\obj\Debug\System.MainView.Properties.Resources.resources
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.MainView\obj\Debug\System.MainView.csproj.GenerateResource.cache
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.MainView\obj\Debug\System.MainView.csproj.CoreCompileInputs.cache
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.MainView\obj\Debug\System.MainView.GeneratedMSBuildEditorConfig.editorconfig
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.MainView\obj\Debug\View\MainSetView.g.cs
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.MainView\obj\Debug\View\MainSetView.baml
+D:\Henter\CSharpe\demo\VTTSoft\bin\System\MainView\MainView.dll
+D:\Henter\CSharpe\demo\VTTSoft\bin\System\MainView\MainView.pdb
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.MainView\obj\Debug\MainView_MarkupCompile.cache
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.MainView\obj\Debug\MainView_MarkupCompile.lref
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.MainView\obj\Debug\MainView.g.resources
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.MainView\obj\Debug\MainView.dll
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.MainView\obj\Debug\MainView.pdb
+D:\Henter\CSharpe\demo\VTTSoft\bin\System\MainView\Manifest.xml

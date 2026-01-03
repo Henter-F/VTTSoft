@@ -1,0 +1,14 @@
+D:\Henter\CSharpe\demo\VTTSoft\bin\System\Common\Common.dll
+D:\Henter\CSharpe\demo\VTTSoft\bin\System\Common\Common.pdb
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.Common\obj\Debug\System.Common.csproj.AssemblyReference.cache
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.Common\obj\Debug\System.Common.csproj.CoreCompileInputs.cache
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.Common\obj\Debug\Common.dll
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.Common\obj\Debug\Common.pdb
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.Common\obj\Debug\Common_MarkupCompile.cache
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.Common\obj\Debug\Login\Control\UserManagementView.g.cs
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.Common\obj\Debug\Common_MarkupCompile.lref
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.Common\obj\Debug\Login\Control\UserManagementView.baml
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.Common\obj\Debug\Common.g.resources
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.Common\obj\Debug\Login\Control\LoginView.g.cs
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.Common\obj\Debug\Login\Control\LoginView.baml
+D:\Henter\CSharpe\demo\VTTSoft\bin\System\Common\Manifest.xml

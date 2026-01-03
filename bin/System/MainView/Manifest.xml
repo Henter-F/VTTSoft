@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Bundle xmlns="urn:uiosp-bundle-manifest-2.0" Name="主界面" SymbolicName="System.MainView" Version="00.00.00.00" InitializedState="Active" StartLevel="5">
+	<Activator Type="System.MainView.Activator" Policy="Immediate" />
+
+	<Runtime>
+		<Assembly Path="MainView.dll" Share="false" MultipleVersions="false" />
+	</Runtime>
+
+</Bundle>

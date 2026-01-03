@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bundle xmlns="urn:uiosp-bundle-manifest-2.0" Name="公共" SymbolicName="System.Common" Version="00.00.00.00" InitializedState="Active" StartLevel="6">
+	<Activator Type="System.Common.Activator" Policy="Immediate" />
+
+	<Runtime>
+		<Assembly Path="Common.dll" Share="false" MultipleVersions="false" />
+	</Runtime>
+
+</Bundle>

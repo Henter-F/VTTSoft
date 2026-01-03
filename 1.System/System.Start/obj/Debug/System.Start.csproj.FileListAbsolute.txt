@@ -1,0 +1,12 @@
+D:\Henter\CSharpe\demo\VTTSoft\bin\System.Start.exe.config
+D:\Henter\CSharpe\demo\VTTSoft\bin\System.Start.exe
+D:\Henter\CSharpe\demo\VTTSoft\bin\System.Start.pdb
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.Start\obj\Debug\System.Start.csproj.AssemblyReference.cache
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.Start\obj\Debug\App.g.cs
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.Start\obj\Debug\System.Start_MarkupCompile.cache
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.Start\obj\Debug\System.Start.Properties.Resources.resources
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.Start\obj\Debug\System.Start.csproj.GenerateResource.cache
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.Start\obj\Debug\System.Start.csproj.CoreCompileInputs.cache
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.Start\obj\Debug\System.Start.exe
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.Start\obj\Debug\System.Start.pdb
+D:\Henter\CSharpe\demo\VTTSoft\1.System\System.Start\obj\Debug\System.S.EAD51E3F.Up2Date

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>System.ICore</RootNamespace>
+    <AssemblyName>System.ICore</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AvalonDock, Version=4.72.1.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\bin\AvalonDock.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MVVM, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\bin\MVVM.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Activities.Presentation" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIShell.OSGi, Version=1.2.2.5, Culture=neutral, PublicKeyToken=c86472448ee87261, processorArchitecture=MSIL">
+      <HintPath>..\System.Start\packages\UIShell.OSGi.1.0.2\lib\net40\UIShell.OSGi.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UIShell.OSGi.MvcWebExtension, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c86472448ee87261, processorArchitecture=MSIL">
+      <HintPath>..\System.Start\packages\UIShell.OSGi.1.0.2\lib\net40\UIShell.OSGi.MvcWebExtension.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConfigSave\AccessDatSerializer.cs" />
+    <Compile Include="ConfigSave\ConfigDat.cs" />
+    <Compile Include="Control\ButtonEx.cs" />
+    <Compile Include="Control\LoadingControl.xaml.cs">
+      <DependentUpon>LoadingControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Control\MultiComboBox.cs" />
+    <Compile Include="Control\WindowCircularProgressBar.xaml.cs">
+      <DependentUpon>WindowCircularProgressBar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Enum\MenuStyle.cs" />
+    <Compile Include="Enum\PrivilegeLevelType.cs" />
+    <Compile Include="Enum\WorkFlowStatus.cs" />
+    <Compile Include="Interface\IFormula.cs" />
+    <Compile Include="Interface\ILoginViewModel.cs" />
+    <Compile Include="Interface\ILogViewModel.cs" />
+    <Compile Include="Interface\IMainViewModel.cs" />
+    <Compile Include="Interface\IMainWindow.cs" />
+    <Compile Include="Interface\IProjectCenterArea.cs" />
+    <Compile Include="Interface\IProjectPanelViewModel.cs" />
+    <Compile Include="Interface\IProjectSubArea.cs" />
+    <Compile Include="Interface\IWFDesigner.cs" />
+    <Compile Include="Log\AppLog.cs" />
+    <Compile Include="Log\LogUitl.cs" />
+    <Compile Include="MenuItemSet\MenuItemSeting.cs" />
+    <Compile Include="MessageBox\Helper\MessageBoxHelper.cs" />
+    <Compile Include="MessageBox\ViewModels\MessageBoxViewModel.cs" />
+    <Compile Include="MessageBox\Views\MessageBox.xaml.cs">
+      <DependentUpon>MessageBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Model\PageModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="Control\LoadingControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Control\WindowCircularProgressBar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MessageBox\Views\MessageBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resoure\ButtonEx.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resoure\DataGridStyle.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resoure\DictionaryMain.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resoure\MultiComboBox.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\login32.png" />
+    <Resource Include="Image\system.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\about.png" />
+    <Resource Include="Image\bundlemanager.png" />
+    <Resource Include="Image\Buzzer.png" />
+    <Resource Include="Image\CatalogWhite.png" />
+    <Resource Include="Image\changepassword.png" />
+    <Resource Include="Image\chk_no.png" />
+    <Resource Include="Image\chk_null.png" />
+    <Resource Include="Image\chk_yes.png" />
+    <Resource Include="Image\Clear.png" />
+    <Resource Include="Image\cloud.png" />
+    <Resource Include="Image\CogDeepLearnInitTreeTool.ico" />
+    <Resource Include="Image\CogToolBlock.ico" />
+    <Resource Include="Image\CogToolGroup.ico" />
+    <Resource Include="Image\Comm.png" />
+    <Resource Include="Image\Configuration.png" />
+    <Resource Include="Image\Copy.png" />
+    <Resource Include="Image\Cut.png" />
+    <Resource Include="Image\data.png" />
+    <Resource Include="Image\debug.png" />
+    <Resource Include="Image\Delete.png" />
+    <Resource Include="Image\Device32.png" />
+    <Resource Include="Image\Devices.png" />
+    <Resource Include="Image\Dgte.ico" />
+    <Resource Include="Image\Dispose.png" />
+    <Resource Include="Image\edit.png" />
+    <Resource Include="Image\ErrorGuide.png" />
+    <Resource Include="Image\Function16.png" />
+    <Resource Include="Image\FunctionSelect16.png" />
+    <Resource Include="Image\getimage.png" />
+    <Resource Include="Image\grabimage.png" />
+    <Resource Include="Image\Guide.png" />
+    <Resource Include="Image\help.png" />
+    <Resource Include="Image\Helper.png" />
+    <Resource Include="Image\home.png" />
+    <Resource Include="Image\Icon_展开侧边栏.png" />
+    <Resource Include="Image\Icon_收起侧边栏.png" />
+    <Resource Include="Image\Info.png" />
+    <Resource Include="Image\left.png" />
+    <Resource Include="Image\Load.png" />
+    <Resource Include="Image\Log.png" />
+    <Resource Include="Image\Logic.png" />
+    <Resource Include="Image\login.ico" />
+    <Resource Include="Image\login.png" />
+    <Resource Include="Image\loginuser16.png" />
+    <Resource Include="Image\LOGO.png" />
+    <Resource Include="Image\Logout16.png" />
+    <Resource Include="Image\Main.png" />
+    <Resource Include="Image\message.png" />
+    <Resource Include="Image\NewDocument.png" />
+    <Resource Include="Image\Open.png" />
+    <Resource Include="Image\open1.png" />
+    <Resource Include="Image\password.png" />
+    <Resource Include="Image\Paste.png" />
+    <Resource Include="Image\PLC通讯.png" />
+    <Resource Include="Image\ProductMode.png" />
+    <Resource Include="Image\producttype.png" />
+    <Resource Include="Image\project.png" />
+    <Resource Include="Image\ProjectPanel.png" />
+    <Resource Include="Image\Property.png" />
+    <Resource Include="Image\Redo.png" />
+    <Resource Include="Image\ResetWindow.png" />
+    <Resource Include="Image\right.png" />
+    <Resource Include="Image\Run.png" />
+    <Resource Include="Image\Runing.png" />
+    <Resource Include="Image\Save.png" />
+    <Resource Include="Image\setting.png" />
+    <Resource Include="Image\setting16.png" />
+    <Resource Include="Image\SettingPara.png" />
+    <Resource Include="Image\Start.png" />
+    <Resource Include="Image\station.png" />
+    <Resource Include="Image\Stop.png" />
+    <Resource Include="Image\store.png" />
+    <Resource Include="Image\SystemSet.png" />
+    <Resource Include="Image\TCPClient.png" />
+    <Resource Include="Image\TCPServer.png" />
+    <Resource Include="Image\ToolKit.png" />
+    <Resource Include="Image\ToolManage.png" />
+    <Resource Include="Image\trigger.png" />
+    <Resource Include="Image\Undo.png" />
+    <Resource Include="Image\UpdateVersion.png" />
+    <Resource Include="Image\user.png" />
+    <Resource Include="Image\Variable.png" />
+    <Resource Include="Image\Vision.png" />
+    <Resource Include="Image\VisionDisplay.png" />
+    <Resource Include="Image\VisionView.png" />
+    <Resource Include="Image\Window.png" />
+    <Resource Include="Image\workflow.png" />
+    <Resource Include="Image\三个点.png" />
+    <Resource Include="Image\串口.png" />
+    <Resource Include="Image\仪表.png" />
+    <Resource Include="Image\光源控制器.png" />
+    <Resource Include="Image\全局变量.png" />
+    <Resource Include="Image\关闭.png" />
+    <Resource Include="Image\到位.png" />
+    <Resource Include="Image\工具.png" />
+    <Resource Include="Image\打开图片.png" />
+    <Resource Include="Image\扫码.png" />
+    <Resource Include="Image\找圆.png" />
+    <Resource Include="Image\找线.png" />
+    <Resource Include="Image\数据库.png" />
+    <Resource Include="Image\文件-日志.png" />
+    <Resource Include="Image\旗帜.png" />
+    <Resource Include="Image\曲线图.png" />
+    <Resource Include="Image\机器人.png" />
+    <Resource Include="Image\查找.png" />
+    <Resource Include="Image\模版.png" />
+    <Resource Include="Image\清除.png" />
+    <Resource Include="Image\用户管理.png" />
+    <Resource Include="Image\编辑.png" />
+    <Resource Include="Image\触发.png" />
+    <Resource Include="Image\设 置.png" />
+    <Resource Include="Image\设备状态.png" />
+    <Resource Include="Image\读取.png" />
+    <Resource Include="Image\调试.png" />
+    <Resource Include="Image\运动控制卡.png" />
+    <Resource Include="Image\运行中.png" />
+    <Resource Include="Image\连接.png" />
+    <Resource Include="Image\适应屏幕.png" />
+    <Resource Include="Image\配方方案.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

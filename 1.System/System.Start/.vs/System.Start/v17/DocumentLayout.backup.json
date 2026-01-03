@@ -1,0 +1,800 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.Start\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\resoure\\dictionarymain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754AE928-717D-499D-BE7F-1037C292AC55}|..\\System.Common\\System.Common.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.common\\login\\model\\usermanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754AE928-717D-499D-BE7F-1037C292AC55}|..\\System.Common\\System.Common.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.common\\login\\model\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D886289B-F0E2-45D2-8751-56519E12C939}|..\\System.MainView\\System.MainView.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.mainview\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D886289B-F0E2-45D2-8751-56519E12C939}|..\\System.MainView\\System.MainView.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.mainview\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754AE928-717D-499D-BE7F-1037C292AC55}|..\\System.Common\\System.Common.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.common\\activator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D886289B-F0E2-45D2-8751-56519E12C939}|..\\System.MainView\\System.MainView.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.mainview\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754AE928-717D-499D-BE7F-1037C292AC55}|..\\System.Common\\System.Common.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.common\\login\\control\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754AE928-717D-499D-BE7F-1037C292AC55}|..\\System.Common\\System.Common.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.common\\manifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\control\\multicombobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\resoure\\multicombobox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754AE928-717D-499D-BE7F-1037C292AC55}|..\\System.Common\\System.Common.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.common\\login\\control\\loginview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754AE928-717D-499D-BE7F-1037C292AC55}|..\\System.Common\\System.Common.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.common\\login\\control\\usermanagementview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754AE928-717D-499D-BE7F-1037C292AC55}|..\\System.Common\\System.Common.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.common\\login\\config\\loginconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\interface\\iprojectpanelviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\interface\\iprojectcenterarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\interface\\iprojectsubarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\enum\\workflowstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\interface\\iwfdesigner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\messagebox\\helper\\messageboxhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\messagebox\\views\\messagebox.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\messagebox\\views\\messagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\messagebox\\viewmodels\\messageboxviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\menuitemset\\menuitemseting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\enum\\menustyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D886289B-F0E2-45D2-8751-56519E12C939}|..\\System.MainView\\System.MainView.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.mainview\\view\\mainsetview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\interface\\iformula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D886289B-F0E2-45D2-8751-56519E12C939}|..\\System.MainView\\System.MainView.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.mainview\\activator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D886289B-F0E2-45D2-8751-56519E12C939}|..\\System.MainView\\System.MainView.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.mainview\\config\\mainconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D886289B-F0E2-45D2-8751-56519E12C939}|..\\System.MainView\\System.MainView.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.mainview\\view\\mainsetview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\control\\buttonex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\interface\\iloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\resoure\\buttonex.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D886289B-F0E2-45D2-8751-56519E12C939}|..\\System.MainView\\System.MainView.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.mainview\\model\\mainsetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\interface\\imainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783DE042-99CA-4AD5-87FB-DD174C404043}|System.Start.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.start\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{783DE042-99CA-4AD5-87FB-DD174C404043}|System.Start.csproj|solutionrelative:app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\enum\\privilegeleveltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\interface\\imainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783DE042-99CA-4AD5-87FB-DD174C404043}|System.Start.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.start\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{783DE042-99CA-4AD5-87FB-DD174C404043}|System.Start.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\control\\windowcircularprogressbar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\log\\loguitl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\configsave\\accessdatserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\log\\applog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\interface\\ilogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\model\\pagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\configsave\\configdat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\control\\windowcircularprogressbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\control\\loadingcontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00994E-D3F4-4C0B-AA73-BF5B1D35DBBA}|..\\System.ICore\\System.ICore.csproj|d:\\henter\\csharpe\\demo\\vttsoft\\1.system\\system.icore\\control\\loadingcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DictionaryMain.xaml",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Resoure\\DictionaryMain.xaml",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Resoure\\DictionaryMain.xaml",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Resoure\\DictionaryMain.xaml",
+              "RelativeToolTip": "..\\System.ICore\\Resoure\\DictionaryMain.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-02T03:38:38.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.MainView\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\System.MainView\\MainWindow.xaml",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.MainView\\MainWindow.xaml",
+              "RelativeToolTip": "..\\System.MainView\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-01T07:11:14.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.MainView\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\System.MainView\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.MainView\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\System.MainView\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAgwL0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T07:11:14.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MultiComboBox.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Control\\MultiComboBox.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Control\\MultiComboBox.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Control\\MultiComboBox.cs",
+              "RelativeToolTip": "..\\System.ICore\\Control\\MultiComboBox.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAEwJAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:16:19.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Manifest.xml",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.Common\\Manifest.xml",
+              "RelativeDocumentMoniker": "..\\System.Common\\Manifest.xml",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.Common\\Manifest.xml",
+              "RelativeToolTip": "..\\System.Common\\Manifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-01-02T03:25:27.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.Common\\Login\\Model\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "..\\System.Common\\Login\\Model\\LoginViewModel.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.Common\\Login\\Model\\LoginViewModel.cs",
+              "RelativeToolTip": "..\\System.Common\\Login\\Model\\LoginViewModel.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAEwIkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:05:53.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManagementViewModel.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.Common\\Login\\Model\\UserManagementViewModel.cs",
+              "RelativeDocumentMoniker": "..\\System.Common\\Login\\Model\\UserManagementViewModel.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.Common\\Login\\Model\\UserManagementViewModel.cs",
+              "RelativeToolTip": "..\\System.Common\\Login\\Model\\UserManagementViewModel.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAhwKoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:03:47.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Activator.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.Common\\Activator.cs",
+              "RelativeDocumentMoniker": "..\\System.Common\\Activator.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.Common\\Activator.cs",
+              "RelativeToolTip": "..\\System.Common\\Activator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:18:41.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MultiComboBox.xaml",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Resoure\\MultiComboBox.xaml",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Resoure\\MultiComboBox.xaml",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Resoure\\MultiComboBox.xaml",
+              "RelativeToolTip": "..\\System.ICore\\Resoure\\MultiComboBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-02T03:14:59.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.Common\\Login\\Control\\LoginView.xaml",
+              "RelativeDocumentMoniker": "..\\System.Common\\Login\\Control\\LoginView.xaml",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.Common\\Login\\Control\\LoginView.xaml",
+              "RelativeToolTip": "..\\System.Common\\Login\\Control\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-02T03:06:40.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.MainView\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "..\\System.MainView\\MainViewModel.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.MainView\\MainViewModel.cs",
+              "RelativeToolTip": "..\\System.MainView\\MainViewModel.cs",
+              "ViewState": "AgIAAFoBAAAAAAAAAAAEwHcBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T07:20:35.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.Common\\Login\\Control\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "..\\System.Common\\Login\\Control\\LoginView.xaml.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.Common\\Login\\Control\\LoginView.xaml.cs",
+              "RelativeToolTip": "..\\System.Common\\Login\\Control\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:09:51.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login\\Control\\UserManagementView.xaml.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.Common\\Login\\Control\\UserManagementView.xaml.cs",
+              "RelativeDocumentMoniker": "..\\System.Common\\Login\\Control\\UserManagementView.xaml.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.Common\\Login\\Control\\UserManagementView.xaml.cs",
+              "RelativeToolTip": "..\\System.Common\\Login\\Control\\UserManagementView.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAtwEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:58:41.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginConfig.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.Common\\Login\\Config\\LoginConfig.cs",
+              "RelativeDocumentMoniker": "..\\System.Common\\Login\\Config\\LoginConfig.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.Common\\Login\\Config\\LoginConfig.cs",
+              "RelativeToolTip": "..\\System.Common\\Login\\Config\\LoginConfig.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:54:01.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProjectPanelViewModel.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Interface\\IProjectPanelViewModel.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Interface\\IProjectPanelViewModel.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Interface\\IProjectPanelViewModel.cs",
+              "RelativeToolTip": "..\\System.ICore\\Interface\\IProjectPanelViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:40:50.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProjectSubArea.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Interface\\IProjectSubArea.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Interface\\IProjectSubArea.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Interface\\IProjectSubArea.cs",
+              "RelativeToolTip": "..\\System.ICore\\Interface\\IProjectSubArea.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:43:41.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MessageBox.xaml.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\MessageBox\\Views\\MessageBox.xaml.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\MessageBox\\Views\\MessageBox.xaml.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\MessageBox\\Views\\MessageBox.xaml.cs",
+              "RelativeToolTip": "..\\System.ICore\\MessageBox\\Views\\MessageBox.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:30:35.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProjectCenterArea.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Interface\\IProjectCenterArea.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Interface\\IProjectCenterArea.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Interface\\IProjectCenterArea.cs",
+              "RelativeToolTip": "..\\System.ICore\\Interface\\IProjectCenterArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:41:17.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IWFDesigner.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Interface\\IWFDesigner.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Interface\\IWFDesigner.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Interface\\IWFDesigner.cs",
+              "RelativeToolTip": "..\\System.ICore\\Interface\\IWFDesigner.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAApwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:41:51.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WorkFlowStatus.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Enum\\WorkFlowStatus.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Enum\\WorkFlowStatus.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Enum\\WorkFlowStatus.cs",
+              "RelativeToolTip": "..\\System.ICore\\Enum\\WorkFlowStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:42:23.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MessageBoxViewModel.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\MessageBox\\ViewModels\\MessageBoxViewModel.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\MessageBox\\ViewModels\\MessageBoxViewModel.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\MessageBox\\ViewModels\\MessageBoxViewModel.cs",
+              "RelativeToolTip": "..\\System.ICore\\MessageBox\\ViewModels\\MessageBoxViewModel.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAlwGMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:31:08.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MessageBox.xaml",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\MessageBox\\Views\\MessageBox.xaml",
+              "RelativeDocumentMoniker": "..\\System.ICore\\MessageBox\\Views\\MessageBox.xaml",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\MessageBox\\Views\\MessageBox.xaml",
+              "RelativeToolTip": "..\\System.ICore\\MessageBox\\Views\\MessageBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-02T02:30:27.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MessageBoxHelper.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\MessageBox\\Helper\\MessageBoxHelper.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\MessageBox\\Helper\\MessageBoxHelper.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\MessageBox\\Helper\\MessageBoxHelper.cs",
+              "RelativeToolTip": "..\\System.ICore\\MessageBox\\Helper\\MessageBoxHelper.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAEwFsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:29:49.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MenuItemSeting.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\MenuItemSet\\MenuItemSeting.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\MenuItemSet\\MenuItemSeting.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\MenuItemSet\\MenuItemSeting.cs",
+              "RelativeToolTip": "..\\System.ICore\\MenuItemSet\\MenuItemSeting.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADgvzwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:23:45.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MenuStyle.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Enum\\MenuStyle.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Enum\\MenuStyle.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Enum\\MenuStyle.cs",
+              "RelativeToolTip": "..\\System.ICore\\Enum\\MenuStyle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:24:34.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MainSetView.xaml",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.MainView\\View\\MainSetView.xaml",
+              "RelativeDocumentMoniker": "..\\System.MainView\\View\\MainSetView.xaml",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.MainView\\View\\MainSetView.xaml",
+              "RelativeToolTip": "..\\System.MainView\\View\\MainSetView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-01T07:31:42.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ButtonEx.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Control\\ButtonEx.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Control\\ButtonEx.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Control\\ButtonEx.cs",
+              "RelativeToolTip": "..\\System.ICore\\Control\\ButtonEx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T07:44:53.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Activator.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.MainView\\Activator.cs",
+              "RelativeDocumentMoniker": "..\\System.MainView\\Activator.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.MainView\\Activator.cs",
+              "RelativeToolTip": "..\\System.MainView\\Activator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T07:19:02.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IFormula.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Interface\\IFormula.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Interface\\IFormula.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Interface\\IFormula.cs",
+              "RelativeToolTip": "..\\System.ICore\\Interface\\IFormula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:26:38.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainSetView.xaml.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.MainView\\View\\MainSetView.xaml.cs",
+              "RelativeDocumentMoniker": "..\\System.MainView\\View\\MainSetView.xaml.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.MainView\\View\\MainSetView.xaml.cs",
+              "RelativeToolTip": "..\\System.MainView\\View\\MainSetView.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T07:47:41.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MainConfig.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.MainView\\Config\\MainConfig.cs",
+              "RelativeDocumentMoniker": "..\\System.MainView\\Config\\MainConfig.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.MainView\\Config\\MainConfig.cs",
+              "RelativeToolTip": "..\\System.MainView\\Config\\MainConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T07:26:24.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ILoginViewModel.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Interface\\ILoginViewModel.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Interface\\ILoginViewModel.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Interface\\ILoginViewModel.cs",
+              "RelativeToolTip": "..\\System.ICore\\Interface\\ILoginViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T07:47:08.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ButtonEx.xaml",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Resoure\\ButtonEx.xaml",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Resoure\\ButtonEx.xaml",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Resoure\\ButtonEx.xaml",
+              "RelativeToolTip": "..\\System.ICore\\Resoure\\ButtonEx.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-01T07:44:36.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MainSetModel.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.MainView\\Model\\MainSetModel.cs",
+              "RelativeDocumentMoniker": "..\\System.MainView\\Model\\MainSetModel.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.MainView\\Model\\MainSetModel.cs",
+              "RelativeToolTip": "..\\System.MainView\\Model\\MainSetModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T07:26:57.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PrivilegeLevelType.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Enum\\PrivilegeLevelType.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Enum\\PrivilegeLevelType.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Enum\\PrivilegeLevelType.cs",
+              "RelativeToolTip": "..\\System.ICore\\Enum\\PrivilegeLevelType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T07:08:14.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IMainWindow.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Interface\\IMainWindow.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Interface\\IMainWindow.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Interface\\IMainWindow.cs",
+              "RelativeToolTip": "..\\System.ICore\\Interface\\IMainWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T07:03:17.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IMainViewModel.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Interface\\IMainViewModel.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Interface\\IMainViewModel.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Interface\\IMainViewModel.cs",
+              "RelativeToolTip": "..\\System.ICore\\Interface\\IMainViewModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T07:02:23.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.Start\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.Start\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAkwF4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T06:59:13.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.Start\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.Start\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-01T06:59:12.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AppLog.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Log\\AppLog.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Log\\AppLog.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Log\\AppLog.cs",
+              "RelativeToolTip": "..\\System.ICore\\Log\\AppLog.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwIIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T06:45:06.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PageModel.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Model\\PageModel.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Model\\PageModel.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Model\\PageModel.cs",
+              "RelativeToolTip": "..\\System.ICore\\Model\\PageModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T06:43:21.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AccessDatSerializer.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\ConfigSave\\AccessDatSerializer.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\ConfigSave\\AccessDatSerializer.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\ConfigSave\\AccessDatSerializer.cs",
+              "RelativeToolTip": "..\\System.ICore\\ConfigSave\\AccessDatSerializer.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwEMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T06:41:13.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ConfigDat.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\ConfigSave\\ConfigDat.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\ConfigSave\\ConfigDat.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\ConfigSave\\ConfigDat.cs",
+              "RelativeToolTip": "..\\System.ICore\\ConfigSave\\ConfigDat.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwGEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T06:40:47.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ILogViewModel.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Interface\\ILogViewModel.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Interface\\ILogViewModel.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Interface\\ILogViewModel.cs",
+              "RelativeToolTip": "..\\System.ICore\\Interface\\ILogViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T06:39:55.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LogUitl.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Log\\LogUitl.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Log\\LogUitl.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Log\\LogUitl.cs",
+              "RelativeToolTip": "..\\System.ICore\\Log\\LogUitl.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAYwHUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T06:38:36.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Control\\WindowCircularProgressBar.xaml.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Control\\WindowCircularProgressBar.xaml.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Control\\WindowCircularProgressBar.xaml.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Control\\WindowCircularProgressBar.xaml.cs",
+              "RelativeToolTip": "..\\System.ICore\\Control\\WindowCircularProgressBar.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwC8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T06:23:31.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "WindowCircularProgressBar.xaml",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Control\\WindowCircularProgressBar.xaml",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Control\\WindowCircularProgressBar.xaml",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Control\\WindowCircularProgressBar.xaml",
+              "RelativeToolTip": "..\\System.ICore\\Control\\WindowCircularProgressBar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-01T06:22:27.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LoadingControl.xaml.cs",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Control\\LoadingControl.xaml.cs",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Control\\LoadingControl.xaml.cs",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Control\\LoadingControl.xaml.cs",
+              "RelativeToolTip": "..\\System.ICore\\Control\\LoadingControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T06:21:14.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LoadingControl.xaml",
+              "DocumentMoniker": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Control\\LoadingControl.xaml",
+              "RelativeDocumentMoniker": "..\\System.ICore\\Control\\LoadingControl.xaml",
+              "ToolTip": "D:\\Henter\\CSharpe\\demo\\VTTSoft\\1.System\\System.ICore\\Control\\LoadingControl.xaml",
+              "RelativeToolTip": "..\\System.ICore\\Control\\LoadingControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-01T06:19:55.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
